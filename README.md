@@ -1,1 +1,1 @@
-# Azure-pipeline-python-django
+python django application for azure pipeline
